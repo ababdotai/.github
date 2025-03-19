@@ -1,5 +1,6 @@
 # Accelerate the Building of Agentic Business
 
 <p align="center">
-  <strong>An Agent to Collaborate with You to Build LLM-Agent-Native Applications</strong>
+  <strong>abab = Awesome Bro! Amazing Buddy！</strong>
 </p>
+
