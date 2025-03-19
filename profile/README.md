@@ -1,6 +1,6 @@
-# Accelerate the Building of Agentic Business
+# abab = Awesome Bro! Amazing Buddy！
 
 <p align="center">
-  <strong>abab = Awesome Bro! Amazing Buddy！</strong>
+  <strong>Accelerate the Building of Agentic Business</strong>
 </p>
 
