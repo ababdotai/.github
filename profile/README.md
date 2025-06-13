@@ -1,6 +1,6 @@
-# abab = Awesome Bro! Amazing Buddy！
+# abab = Agentic Builders for Agent Building
 
 <p align="center">
-  <strong>Accelerate the Building of Agentic Business</strong>
+  <strong>abab can also be explained as: Automatic Bootstrap Agent Building</strong>
 </p>
 
