@@ -1,6 +1,6 @@
 # abab = Agentic Builders for Agent Building
 
 <p align="center">
-  <strong>abab can also be explained as: Automatic Bootstrap Agent Building</strong>
+  <strong>Working on building infras for future AI Agents, including self-bootstrap multi-agent network, self-refine prompts, self-reflective memories, and self-evolving tools.</strong>
 </p>
 
