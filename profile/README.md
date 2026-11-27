@@ -5,9 +5,19 @@
 <h1 align="center">Always Building, Always Becoming.</h1>
 <p align="center"><strong>持续创造，持续进化。</strong></p>
 
-What if asking AI for help with a move gave you a checklist you could tick off right in the chat? At abab, we turn questions like this into working tools. If you try the checklist on moving day, tell us which step it missed. That's where the next version starts. [Explore the prototype ↗](https://github.com/ababdotai/generative_gui)
+<p align="center">
+  好玩，就想动手。<br/>
+  好用，就留在手边。<br/>
+  你添一笔，我改一版。<br/>
+  做着做着，又有了新点子。
+</p>
 
-在 abab，我们和 AI 一起把日常的奇想做成工具。比如，跟 AI 聊搬家，聊着聊着，对话里就多了一张可以逐项勾选的清单。等你真的搬完家，回来告诉我们漏了哪一步。这样一来一回，工具有了新本领，我们也学会了问更好的问题。
+<p align="center">
+  We make what looks fun.<br/>
+  We keep what comes in handy.<br/>
+  You add a twist. We give it a try.<br/>
+  And there's our next idea.
+</p>
 
 <p align="center">
   <a href="https://www.abab.ai/">Website</a> ·
@@ -31,6 +41,3 @@ What if asking AI for help with a move gave you a checklist you could tick off r
 - **[awesome-agent-quickstart](https://github.com/ababdotai/awesome-agent-quickstart)** — Small, runnable examples for agent frameworks.
 - **[AlitaOpen](https://github.com/ababdotai/AlitaOpen)** — Experiments with agents that build and refine their own tools.
 - **[generative_gui](https://github.com/ababdotai/generative_gui)** — AI responses with interactive interfaces, beyond chat.
-
-Built by [@Symbolk](https://github.com/Symbolk). More ideas are always on the way—try a project, open an issue, or bring an idea of your own.
-
