@@ -1,17 +1,19 @@
-<h1 align="center">ABAB AI Lab</h1>
-
 <p align="center">
-  <strong>Agentic Builders for Agent Building.</strong><br/>
-  A playground for LLMs, AI agents, and software engineering.
+  <img src="https://raw.githubusercontent.com/ababdotai/.github/main/profile/assets/ababai.png" width="200" alt="abab.ai" />
 </p>
+
+<h1 align="center">Always Building, Always Becoming.</h1>
+<p align="center"><strong>持续创造，持续进化。</strong></p>
+
+What if asking AI for help with a move gave you a checklist you could tick off right in the chat? At abab, we turn questions like this into working tools. If you try the checklist on moving day, tell us which step it missed. That's where the next version starts. [Explore the prototype ↗](https://github.com/ababdotai/generative_gui)
+
+在 abab，我们和 AI 一起把日常的奇想做成工具。比如，跟 AI 聊搬家，聊着聊着，对话里就多了一张可以逐项勾选的清单。等你真的搬完家，回来告诉我们漏了哪一步。这样一来一回，工具有了新本领，我们也学会了问更好的问题。
 
 <p align="center">
   <a href="https://www.abab.ai/">Website</a> ·
   <a href="https://github.com/Symbolk">Meet the builder</a> ·
   <a href="https://github.com/orgs/ababdotai/repositories">Explore the repos</a>
 </p>
-
-Curious ideas. Useful tools. A little fun. We turn experiments with AI into things you can try, tinker with, and build on.
 
 ## On the workbench
 
