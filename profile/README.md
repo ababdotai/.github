@@ -3,20 +3,21 @@
 </p>
 
 <h1 align="center">Always Building, Always Becoming.</h1>
+
+<p align="center">
+  Human hands and AI share a workbench.<br/>
+  What makes us smile, we pass around.<br/>
+  What helps, we keep within reach.<br/>
+  The work takes shape, and so do we.
+</p>
+
 <p align="center"><strong>持续创造，持续进化。</strong></p>
 
 <p align="center">
-  好玩，就想动手。<br/>
-  好用，就留在手边。<br/>
-  你添一笔，我改一版。<br/>
-  做着做着，又有了新点子。
-</p>
-
-<p align="center">
-  We make what looks fun.<br/>
-  We keep what comes in handy.<br/>
-  You add a twist. We give it a try.<br/>
-  And there's our next idea.
+  人与 AI，共用一张工作台。<br/>
+  好玩的，递给朋友。<br/>
+  好用的，留在手边。<br/>
+  作品渐渐成形，我们也悄悄生长。
 </p>
 
 <p align="center">
@@ -27,7 +28,7 @@
 
 ## On the workbench
 
-*Updated November 25, 2026.*
+*Updated November 27, 2026.*
 
 | Logo | Project | What it's for | Recent update |
 | :---: | --- | --- | --- |
@@ -35,9 +36,6 @@
 | <img src="https://raw.githubusercontent.com/ababdotai/KeepMicAlive/main/assets/logo.png" width="48" height="48" alt="KeepMicAlive logo" /> | **[KeepMicAlive](https://github.com/ababdotai/KeepMicAlive)** | Keep your mic ready and boost quiet spoken prompts. | [v1.5.1 · Nov 25](https://github.com/ababdotai/KeepMicAlive/releases/tag/v1.5.1) · New name, whisper boost, and AirPods / BlackHole routing fixes. |
 | <img src="https://raw.githubusercontent.com/ababdotai/Kairos/main/public/icons/icon128.png" width="48" height="48" alt="Kairos logo" /> | **[Kairos](https://github.com/ababdotai/Kairos)** | An AI companion for video notes and learning. | [Nov 10](https://github.com/ababdotai/Kairos/commit/6289affa20322f029c39418df7ff5ce05ce0705f) · Course-note drawer improvements and save / replay fixes. |
 | <img src="https://raw.githubusercontent.com/ababdotai/FoldableKeyboard/main/public/icons/icon.png" width="48" height="48" alt="FoldableKeyboard logo" /> | **[FoldableKeyboard](https://github.com/ababdotai/FoldableKeyboard)** | Desktop-style keys for remote vibe coding on foldable phones; a [pcKeyboard](https://github.com/9hm2/pcKeyboard) fork. | [Oct 4](https://github.com/ababdotai/FoldableKeyboard/commit/d5a73c48cad8ceed69dadeedd0d6ffc2fea9e556) · Refreshed branding, overlay docking, and system themes. |
-
-## More to explore
-
-- **[awesome-agent-quickstart](https://github.com/ababdotai/awesome-agent-quickstart)** — Small, runnable examples for agent frameworks.
-- **[AlitaOpen](https://github.com/ababdotai/AlitaOpen)** — Experiments with agents that build and refine their own tools.
-- **[generative_gui](https://github.com/ababdotai/generative_gui)** — AI responses with interactive interfaces, beyond chat.
+| <img src="https://raw.githubusercontent.com/ababdotai/huggingdog/main/public/huggingdog.png" width="48" alt="Huggingdog logo" /> | **[Huggingdog](https://github.com/ababdotai/huggingdog)** | A social feed where AI agents swap notes on new Hugging Face papers, models, and datasets. | [Mar 27, 2025](https://github.com/ababdotai/huggingdog/commit/b59cd3b358ab86ade1ef29c66e6a0eda9dc7a7c2) · Added trending topic analysis. |
+| <img src="https://raw.githubusercontent.com/ababdotai/ChatEditor/main/chrome-extension/images/icon128.png" width="48" alt="ChatEditor icon" /> | **[ChatEditor](https://github.com/ababdotai/ChatEditor)** | Point at an element in Chrome, describe a change, and see the page update. | [Dec 25, 2024](https://github.com/ababdotai/ChatEditor/commit/f115aae692e0ccc70e3b21b5750624a7e838c7b0) · Added an animated editing demo. |
+| <img src="https://raw.githubusercontent.com/ababdotai/HarmonyOS-Emoji-Lock/main/screenshots/preview.png" width="48" alt="Emoji clock preview" /> | **[HarmonyOS-Emoji-Lock](https://github.com/ababdotai/HarmonyOS-Emoji-Lock)** | A HarmonyOS-inspired clock. Tilt your phone or use the arrow keys to send emoji tumbling. | [Dec 3, 2024](https://github.com/ababdotai/HarmonyOS-Emoji-Lock/commit/1a5c53281b846cff728278bd8ed8bbaf394577bb) · Added more emoji and rotation effects. |
